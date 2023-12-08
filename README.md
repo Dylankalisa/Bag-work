@@ -16,5 +16,3 @@ This To-Do List application allows users to manage their tasks by adding, editin
 - CSS
 - JavaScript
 
-## Getting Started
-
